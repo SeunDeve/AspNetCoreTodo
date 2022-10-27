@@ -1,11 +1,9 @@
-﻿using System;
-
-
+﻿
 namespace AspNetCoreTodo.Models
 {
     public class TodoViewModel
     {
-        public TodoItem[] items { get; set; }
+        public TodoItem[] Items { get; set; }
 
     }
 }
